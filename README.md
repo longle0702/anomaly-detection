@@ -1,2 +1,1 @@
-# anomaly-detection
-Built a time series anomaly detection, using data scraped from investing.com
+Co-authors: Nguyen Quang Huy, Pham Thai Son
